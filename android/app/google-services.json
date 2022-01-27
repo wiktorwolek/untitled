@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579142781277",
+    "project_id": "toiletmaps-109d3",
+    "storage_bucket": "toiletmaps-109d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579142781277:android:d75bb90b20bfc3995c80b4",
+        "android_client_info": {
+          "package_name": "com.toilet.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579142781277-e8gu191f7i39ml736a8vtveei7ih0qr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNm-y9ts4kWhjlUz-wIvE9Fz2Y2lIHOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579142781277-e8gu191f7i39ml736a8vtveei7ih0qr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
